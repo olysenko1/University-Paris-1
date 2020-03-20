@@ -6,3 +6,6 @@ Done in Python Spyder environment as a part of a Quantitative Methods in Finance
 
 ## Bitcoin network analysis
 Done in Python Jupyter environment and Gephi for graphs visualization as a part of Bitcoin Network and Machine Learning class. The purpose is to discover the Bitcoin network using a sample of transaction data. Every step is explained in the notebook.
+
+## JBC
+Done in Stata as a final project of Financial Econometrics class. 
