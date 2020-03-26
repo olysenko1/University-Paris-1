@@ -12,3 +12,6 @@ Done in Stata as a final project of Financial Econometrics class. Data manipulat
 
 ## Blockchain
 Done in Python environment as a part of Technology of Blockchain class. Setting up of a simple blockhain and testing.
+
+## Sentiment analysis
+Done in Python as a part of Applied Data science class. Scrapping tweets from stocktwits and applying different methods to perform sentiment analysis on them.
