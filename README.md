@@ -13,6 +13,10 @@ Done in Python Jupyter environment and Gephi for graphs visualization as a part 
 ## Asset Pricing 
 Done in R as a part of asset pricing course. Some of the topics covered: ARMA models, cointegration analysis, Fama and French Three-Factor Model, VECM models, extrapolation of yield curve, option pricing techniques and others
 
+## Financial econometrics
+Done in R, projects covering some of the financial econometrics topics 
+
+
 ## Blockchain
 Done in Python environment as a part of Technology of Blockchain class. Setting up of a simple blockhain and testing.
 
