@@ -1,9 +1,6 @@
 # Projects
 This repository contains some of the projects done during the my master studies in University Paris 1.
 
-## Monte Carlo simulations 
-Done in Python environment as a part of a Quantitative Methods in Finance class. The purpose is to deploy MC simulations to study the behaviour of VaR and ES for the portfolio of simulated stocks and conclude whether these are appropriate risk measures. Code is explained with the help of notes. 
-
 ## JBC
 Done in Stata as a final project of Financial Econometrics class. Data manipulations and different set of panel data regressions.
 
